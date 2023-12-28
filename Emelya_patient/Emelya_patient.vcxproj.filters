@@ -27,6 +27,12 @@
     <ClInclude Include="Emelin_Class_Patient.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="description.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Emelya_Module_Worker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

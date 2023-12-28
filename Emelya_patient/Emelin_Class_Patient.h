@@ -36,7 +36,7 @@ public:
 	\param NoKart медицинская карта персоны
 	\param Diagnoz диагноз персоны
 	*/
-	Emelin_Class_Patient(char * fio,char * adress,int * NoKart,char * Diagnoz;);
+	Emelin_Class_Patient(char * fio,char * adress,int * NoKart,char * Diagnoz);
 	
 	///Деструктор освобождает ресурсы
 	~Emelin_Class_Patient(void);
