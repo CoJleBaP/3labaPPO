@@ -1,0 +1,1 @@
+"F:\doxygen\bin\doxygen.exe" -g config
